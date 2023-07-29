@@ -1,5 +1,5 @@
 EXAM SYSTEM Application
-Development of a Mobile Application for managing full Exam process using Flutter Full Exam System:
+Development of a Mobile Application for managing full Exam process using Flutter Full Exam System And ML(paraphrasing ):
 
 We Have 3 Types of Users [ Admin, Professors, Students] And Exam Process
 •	Onboarding Screens
@@ -12,7 +12,6 @@ Exam Process
 •	Calculate The Remain Time of the exam When Student Enter to take it
 •	We Make paraphrasing For the Questions Using ML Model and API So We Made A lot of Models For The Exam and We Solve The Problem of Cheating
 •	If the Student Close the Exam and open it again, he will take Different Questions
-
 
 Admin Options
 •	Enrollment [ Professors, Students] by Admin
@@ -41,3 +40,4 @@ Student Options
 •	View and Edit Profile
 
 Developed using Dart, Flutter, Firebase, Bloc, API.
+Link Video: https://drive.google.com/file/d/1zxm2XzDRHPe-c9YUbubHiqZ3N5yb1vdm/view?usp=sharing
