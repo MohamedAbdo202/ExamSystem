@@ -40,4 +40,4 @@ Student Options
 •	View and Edit Profile
 
 Developed using Dart, Flutter, Firebase, Bloc, API.
-Link Video: https://drive.google.com/file/d/1zxm2XzDRHPe-c9YUbubHiqZ3N5yb1vdm/view?usp=sharing
+Link Video: https://drive.google.com/file/d/1H0j-_C8W6LofGQfDftwn4p0CDuNhu4Qt/view?usp=sharing
